@@ -28,7 +28,7 @@ module.exports = {
   // then change this to '/my-app/'
   baseUrl: BASE_URL,
   devServer: {
-    port: 8081
+    port: 8008
   },
   // tweak internal webpack configuration.
   // see https://github.com/vuejs/vue-cli/blob/dev/docs/webpack.md
